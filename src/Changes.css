@@ -1,0 +1,60 @@
+/* Slider.js Changes */
+
+.each-slide>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: unset !important;
+    width: '100%';
+}
+
+
+/* HomeSecOne Section Of HomePage */
+
+.silder {
+    display: flex;
+}
+
+.artypo1 {
+    font-size: 17px !important;
+    text-align: center !important;
+    /* margin-left: 5% !important; */
+    /* height:45px; */
+    /* line-height:70px;  */
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.disratef1 {
+    font-size: 15px;
+    text-align: left !important;
+    text-decoration-line: none !important;
+}
+
+.discountf1 {
+    text-align: center !important;
+    line-height: normal !important;
+}
+
+.discount-f1 {
+    text-align: right !important;
+    line-height: 3em;
+}
+
+.containerAs1 {
+    margin-top: 5%;
+    display: inline-block;
+    /* background-color: red; */
+    background: white;
+    /* padding: 0% 10% 0% 10%; */
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    /* width: 100%; */
+    /* border-radius: 2%; */
+}
+
+.background {
+    background: whitesmoke;
+}
